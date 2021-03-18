@@ -57,6 +57,7 @@ implemented in your project?<br/>
 - Copying of Objects<br/>
 - Currying Functions<br/>
 - Throttling and Debouncing<br/>
+- link for debouncing and Throttling Implementation https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript <br/>
 - Promise.race() and all functions related to Promise<br/>
 - How to run ‘use strict’ code in chrome console<br/>
 - -> Use IFFY<br/>
